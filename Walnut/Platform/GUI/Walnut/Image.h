@@ -10,7 +10,10 @@ namespace Walnut {
 	{
 		None = 0,
 		RGBA,
-		RGBA32F
+		RGBA32F,
+		RGB,
+		BGR,
+		BGRA,
 	};
 
 	class Image
